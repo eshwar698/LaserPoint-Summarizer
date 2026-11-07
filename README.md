@@ -137,6 +137,13 @@ The project demonstrates a complete experimental workflow:
 - Running inference locally
 - Interacting with the model through a browser interface
 
+
+## Project Report
+
+The complete internship project report documents the dataset preparation, model fine-tuning, GGUF conversion, and local inference workflow.
+
+[**Read the Project Report (DOCX)**](assets/Final%20Project%20Report%20-%20Fine-Tuning%20a%20Large%20Language%20Model%20for%20Summarization%20and%20Conversion%20to%20GGUF%20Format.docx)
+
 ## Limitations
 
 - Experimental summarization model; not benchmark-certified.
