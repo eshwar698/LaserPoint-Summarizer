@@ -1,0 +1,46 @@
+
+# Model weights and checkpoints
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.pth
+*.ckpt
+
+# Datasets
+*.jsonl
+*.csv
+*.parquet
+
+# llama.cpp binaries and libraries
+*.exe
+*.dll
+
+# Training outputs
+checkpoints/
+outputs/
+logs/
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local model directories
+LaserPoint/
+LaserPointChat/
+Mistral-7B-Instruct-v0.1/
+llama-cpu-runner/
+
+# Downloaded llama.cpp archive
+*.zip
