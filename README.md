@@ -27,6 +27,12 @@ The project investigates adapting Mistral-7B-Instruct-v0.1 for abstractive text 
 
 The workflow extends beyond training to model conversion and local deployment, enabling summarization through a lightweight browser-based interface.
 
+## Architecture
+
+![LaserPoint Architecture](assets/architecture.png)
+
+For a detailed explanation, see [System Architecture](docs/architecture.md).
+
 ## Project Pipeline
 
 ```mermaid
